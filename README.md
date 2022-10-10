@@ -7,6 +7,7 @@ I'm Great Uchenna Okafor
 - 🌱 I’m currently learning Typescript
 - 👯 I’m open to freelance projects
 - 📫 How to reach me via email (greatokafor9@gmail.com) and [linkedIn](https://www.linkedin.com/in/great-okafor-348b39220/)
+- 
 
 
 
