@@ -16,4 +16,14 @@ I'm Great Uchenna Okafor
 Do reach out to me
 
 
+#### Profile Visits 🕵️‍♂️
+
+![visitors](https://komarev.com/ghpvc/?username=thelordgreat&style=for-the-badge)
+
+#### Github Stats 📈
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=thelordgreat&count_private=true&theme=dark)
+ 
+
+
 
