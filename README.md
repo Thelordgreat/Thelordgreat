@@ -22,10 +22,7 @@ Do reach out to me
 
 #### Github Stats 📈
 
-https://github.com/vn7n24fzkq/github-profile-summary-cards
-
-https://github.com/DenverCoder1/github-readme-streak-stats
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelordgreat&theme=default)
  
 
 
