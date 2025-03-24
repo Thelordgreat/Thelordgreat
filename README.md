@@ -22,7 +22,7 @@ Do reach out to me
 
 #### Github Stats 📈
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=thelordgreat&count_private=true&theme=dark&cache_seconds=1800)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=thelordgreat&count_private=true&theme=dark&cache_seconds=1800)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
  
 
