@@ -20,9 +20,6 @@ Do reach out to me
 
 ![visitors](https://komarev.com/ghpvc/?username=thelordgreat&style=for-the-badge)
 
-#### Github Stats 📈
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thelordgreat&theme=default)
  
 
 
