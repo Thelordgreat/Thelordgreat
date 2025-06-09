@@ -21,6 +21,9 @@ Do reach out to me
 <h2>Most Used Languages</h2>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">
 
+<h2>Streak Stats</h2>
+ <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=thelordgreat&theme=dark">
+
  
 
 
