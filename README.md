@@ -16,9 +16,11 @@ I'm Great Uchenna Okafor
 Do reach out to me
 
 
-#### Profile Visits 🕵️‍♂️
+<h2>Github Trophy</h2>
+<img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=thelordgreat&amp;theme=gruvbox" style="max-width: 100%;">
 
-![visitors](https://komarev.com/ghpvc/?username=thelordgreat&style=for-the-badge)
+<h2>Most Used Languages</h2>
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">
 
  
 
