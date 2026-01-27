@@ -39,16 +39,22 @@ I enjoy working **solo or in teams**, and I strongly believe in continuous growt
 ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-<img 
+<!-- <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=thelordgreat&theme=tokyonight" 
   alt="GitHub Streak Stats"
+/> -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=thelordgreat&show_icons=true&theme=tokyonight" 
+  alt="GitHub Stats"
 />
 
 ### 🧠 Most Used Languages
-<img 
+<!-- <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&layout=compact&langs_count=6&theme=tokyonight" 
   alt="Most Used Languages"
-/>
+/> -->
+
+<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">
 
 ---
 
