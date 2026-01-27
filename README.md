@@ -2,62 +2,72 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there 👋, I'm Great Uchenna Okafor</h1>
+<h1 align="center">Hi 👋, I'm Great Okafor</h1>
 
 <p align="center">
-  Frontend Web Developer • Lagos, Nigeria 🇳🇬
+  Frontend / Software Developer • Lagos, Nigeria 🇳🇬
+</p>
+
+<p align="center">
+  Building scalable, user-focused web applications with modern frontend technologies.
 </p>
 
 ---
 
-✨ I’m a **Frontend Web Developer** passionate about building clean, responsive, and high-impact web experiences.  
-I enjoy working **solo or in teams**, and I strongly believe in continuous growth — learning, unlearning, and relearning.
+## 👨🏽‍💻 About Me
+
+I’m a **Frontend Software Developer** with professional experience building **responsive, high-performance web applications** for companies and clients.
+
+I work comfortably **independently or within cross-functional teams**, and I value clean code, thoughtful UI, and maintainable systems.  
+I’m continuously improving my craft through learning, unlearning, and applying best practices.
 
 ---
 
-### 🚀 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, TypeScript  
-- **Frameworks & Libraries:** React, Next.js, React Native, Astro  
-- **Styling:** Tailwind CSS  
-- **Tools:** Git, GitHub, VS Code
+## 🛠 Tech Stack
+
+**Languages**
+- HTML, CSS, JavaScript, TypeScript
+
+**Frameworks & Libraries**
+- React, Next.js, React Native, Astro
+
+**Styling & UI**
+- Tailwind CSS
+
+**Tools & Workflow**
+- Git, GitHub, VS Code, REST APIs
 
 ---
 
-### 💼 What I’m Up To
-- 👯 Open to **freelance projects**
-- 💡 Interested in building **scalable and user-friendly products**
-- 🌱 Always improving my frontend & UI/UX skills
+## 💼 What I’m Open To
+- Full-time or contract **Frontend / Software Developer roles**
+- Freelance projects
+- Building production-ready applications and internal tools
 
 ---
 
-### 📫 Let’s Connect
+## 📫 Contact
 - 📧 Email: **greatokafor9@gmail.com**
 - 💼 LinkedIn: [Great Okafor](https://www.linkedin.com/in/great-okafor-348b39220/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-### 🔥 Streak Stats
-<!-- <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=thelordgreat&theme=tokyonight" 
-  alt="GitHub Streak Stats"
-/> -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=thelordgreat&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=thelordgreat&show_icons=true&theme=tokyonight&count_private=true" 
   alt="GitHub Stats"
 />
 
-### 🧠 Most Used Languages
-<!-- <img 
+<img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&layout=compact&langs_count=6&theme=tokyonight" 
   alt="Most Used Languages"
-/> -->
+/>
 
-<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&amp;langs_count=5&amp;theme=tokyonight" style="max-width: 100%;">
+> 💡 A significant portion of my professional work is in private repositories for companies and client projects.
 
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile — feel free to explore my repositories!
+  Thanks for visiting — feel free to explore my repositories or reach out.
 </p>
