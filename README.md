@@ -52,12 +52,8 @@ I’m continuously improving my craft through learning, unlearning, and applying
 
 ---
 
-## 📊 GitHub Activity
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=thelordgreat&show_icons=true&theme=tokyonight&count_private=true" 
-  alt="GitHub Stats"
-/>
+<h2>Streak Stats</h2>
+ <img alt="'Streak Stats' Please refresh the page if the stats didnt show up" src="https://github-readme-streak-stats.herokuapp.com/?user=thelordgreat&theme=dark">
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelordgreat&layout=compact&langs_count=6&theme=tokyonight" 
